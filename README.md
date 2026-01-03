@@ -1,2 +1,2 @@
 # site
-website
+website basic
